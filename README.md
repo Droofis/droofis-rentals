@@ -4,14 +4,6 @@
 - Add as many locations as you'd like (Each location can have different vehicles)
 - Players receive rental papers with meta data displaying renter's name, vehicle, and licence plate
 
-# Compatibility
-
-**Requires:** ox_lib | ox_inventory 
-
-**Frameworks:** QB | ESX
-
-**Targets:** qb-target | ox_target
-
 
 # Installation:
 
